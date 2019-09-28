@@ -5,7 +5,7 @@ import os
 #Room Values List!
 arena = ["It is a circle with walls that go up at least 100 ft",
          "You almost slip and fall on the icy floor and you can see your breath",
-         "The heat is intense and unbearable. \n You stare in shock at the moat of lava thatsurrounds you"]
+         "The heat is intense and unbearable. \n You stare in shock at the moat of lava that surrounds you"]
 
 #Creatures Tuple!
 
